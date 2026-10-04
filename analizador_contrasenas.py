@@ -33,7 +33,6 @@ def esta_en_lista_negra(contrasena, lista_negra):
     """Verifica si la contrasena aparece en la lista de contrasenas comunes."""
     return contrasena.lower() in lista_negra
 
-password_db = "Df1@_56789aa"
 
 def clasificar_fortaleza(puntaje):
     """Traduce el puntaje numerico a una categoria legible."""
