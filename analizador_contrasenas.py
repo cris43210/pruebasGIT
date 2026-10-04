@@ -43,6 +43,9 @@ def clasificar_fortaleza(puntaje):
     else:
         return "Fuerte"
 
+def contras(abc):
+    abc = "contrasenacomun"
+    return True
 
 def main():
     contrasenas_prueba = [
