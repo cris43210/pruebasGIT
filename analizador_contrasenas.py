@@ -44,7 +44,7 @@ def clasificar_fortaleza(puntaje):
         return "Fuerte"
 
 def contras(abc):
-    abc = "nadacomun"
+    abc = "contrasenaDEVELOP"
     return True
 
 def main():
